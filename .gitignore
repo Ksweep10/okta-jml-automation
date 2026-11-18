@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Secrets - never commit these
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs written by the script
+logs/
+*.log
+
+# Editor and operating system files
+.vscode/
+Thumbs.db
