@@ -1,0 +1,7 @@
+event,first_name,last_name,email,department,title
+joiner,Ava,Martinez,ava.martinez@example.com,Sales,Account Executive
+joiner,Ben,Carter,ben.carter@example.com,Engineering,Software Engineer
+joiner,Chloe,Nguyen,chloe.nguyen@example.com,Finance,Financial Analyst
+joiner,Dan,Brooks,dan.brooks@example.com,Sales,Sales Manager
+mover,Ben,Carter,ben.carter@example.com,Sales,Sales Engineer
+leaver,Chloe,Nguyen,chloe.nguyen@example.com,Finance,Financial Analyst
